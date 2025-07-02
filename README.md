@@ -5,7 +5,7 @@ DNS proxy in C
 ```
 make
 ```
-run only with ```sudo```
+After run program  only with ```sudo```
 
 **How i tested**
 
