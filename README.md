@@ -7,7 +7,7 @@ make
 ```
 After run program  only with ```sudo```
 
-**How i tested**
+**How I tested**
 
 I run the program with config file in current directory ```dns_proxy_server.conf```
 ```
